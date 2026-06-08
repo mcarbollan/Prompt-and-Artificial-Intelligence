@@ -21,7 +21,7 @@ Além disso, o sistema também atende perfis secundários, como gestores de frot
 . Requests
 
 **Como executar:**
-1. Abra o arquivo no VScode, Pycharma etc
+1. Abra o arquivo no VScode, Pycharm etc
 2. Instale o Python.
 3. Crie um arquivo **env.** com a váriavel OLLAMA_API_KEY=sua_chave_aqui
 4. Execute: python main.py
