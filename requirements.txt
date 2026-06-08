@@ -1,0 +1,7 @@
+rich==13.9.4
+prompt-toolkit==3.0.51
+pyfiglet==1.0.2
+python-dotenv==1.1.0
+requests==2.32.3
+ollama==0.6.2
+
