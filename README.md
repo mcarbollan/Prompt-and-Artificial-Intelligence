@@ -14,4 +14,8 @@ A plataforma relaciona informações e eventos ocorridos no ambiente espacial co
 . Pyton-dotenv
 
 **Como executar:**
+1. Abra o arquivo no VScode, Pycharma etc
+2. Instale o Python.
+3. Crie um arquivo **env.** com a váriavel OLLAMA_API_KEY=sua_chave_aqui
+4. Execute: python main.py
 
