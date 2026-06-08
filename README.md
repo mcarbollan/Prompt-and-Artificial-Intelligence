@@ -16,6 +16,9 @@ Além disso, o sistema também atende perfis secundários, como gestores de frot
 . Chat GPT
 . Prompt-toolkit
 . Pyton-dotenv
+. Rish
+. Pyfiglet
+. Requests
 
 **Como executar:**
 1. Abra o arquivo no VScode, Pycharma etc
