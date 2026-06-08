@@ -20,9 +20,35 @@ Além disso, o sistema também atende perfis secundários, como gestores de frot
 . Pyfiglet
 . Requests
 
-**Como executar:**
-1. Abra o arquivo no VScode, Pycharm etc
-2. Instale o Python.
-3. Crie um arquivo **env.** com a váriavel OLLAMA_API_KEY=sua_chave_aqui
-4. Execute: python main.py
+**Como Executar o Programa**
 
+1. Clone o repositório do projeto.
+
+2. Crie e ative o ambiente virtual:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+No Windows:
+
+```bash
+.venv\Scripts\activate
+```
+
+3. Instale as dependências:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Crie o arquivo `.env` na raiz do projeto utilizando o modelo disponível em `.env.example` e preencha as variáveis necessárias.
+
+5. Execute o programa:
+
+```bash
+python main.py
+```
+
+Após a inicialização, o sistema estará pronto para uso através do terminal.
